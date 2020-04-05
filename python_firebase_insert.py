@@ -14,9 +14,9 @@ firebase =  firebase.FirebaseApplication("https://learn-python-firebase-dc967.fi
 
 """Data that you eant to send to firebase table"""
 data_document = {
-    'Name': 'John Wick',
-    'Location': 'New York',
-    'Killed' : 211
+    'Name': 'Hitman 43',
+    'Location': 'London',
+    'Killed' : 500
 }
 
 """Using POst method you can send to cloud firebase"""
